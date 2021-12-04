@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepthMeasurer", "Advent1\DepthMeasurer.csproj", "{715A23B6-B72B-459F-AEFA-653B45B4C3BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{FDBCF524-03EC-4503-9288-EE3D25315720}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubmarineApp", "ConsoleApp\SubmarineApp.csproj", "{41A4134C-546A-4E90-B88D-293D4338FE9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{715A23B6-B72B-459F-AEFA-653B45B4C3BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{715A23B6-B72B-459F-AEFA-653B45B4C3BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{715A23B6-B72B-459F-AEFA-653B45B4C3BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{715A23B6-B72B-459F-AEFA-653B45B4C3BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDBCF524-03EC-4503-9288-EE3D25315720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBCF524-03EC-4503-9288-EE3D25315720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBCF524-03EC-4503-9288-EE3D25315720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBCF524-03EC-4503-9288-EE3D25315720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41A4134C-546A-4E90-B88D-293D4338FE9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41A4134C-546A-4E90-B88D-293D4338FE9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41A4134C-546A-4E90-B88D-293D4338FE9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41A4134C-546A-4E90-B88D-293D4338FE9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FC7C5A4-DFD9-48C8-B1BC-0D778224DB4A}
+	EndGlobalSection
+EndGlobal
