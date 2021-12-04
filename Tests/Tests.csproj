@@ -16,7 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Advent1\DepthMeasurer.csproj" />
-    <ProjectReference Include="..\ConsoleApp\SubmarineApp.csproj" />
+    <ProjectReference Include="..\SubmarineApp\SubmarineApp.csproj" />
   </ItemGroup>
 
 </Project>

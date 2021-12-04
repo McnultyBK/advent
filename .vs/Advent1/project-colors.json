@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "41a4134c-546a-4e90-b88d-293d4338fe9f": {
+      "ProjectGuid": "41a4134c-546a-4e90-b88d-293d4338fe9f",
+      "DisplayName": "SubmarineApp",
+      "ColorIndex": 0
+    },
+    "715a23b6-b72b-459f-aefa-653b45b4c3be": {
+      "ProjectGuid": "715a23b6-b72b-459f-aefa-653b45b4c3be",
+      "DisplayName": "DepthMeasurer",
+      "ColorIndex": 1
+    },
+    "fdbcf524-03ec-4503-9288-ee3d25315720": {
+      "ProjectGuid": "fdbcf524-03ec-4503-9288-ee3d25315720",
+      "DisplayName": "Tests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
